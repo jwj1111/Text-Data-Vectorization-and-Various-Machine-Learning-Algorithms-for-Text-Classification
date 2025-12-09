@@ -1,0 +1,7 @@
+Classifiers,MacroAvg-Precision,MacroAvg-Recall,MacroAvg-F1
+MultinomialNB,0.8186,0.8137,0.8142
+GaussianNB,0.6811,0.6826,0.6793
+DecisionTreeClassifier,0.5527,0.5456,0.5474
+KNN,0.6496,0.6190,0.6257
+SVC,0.7989,0.7873,0.7896
+LogisticRegression,0.8092,0.8029,0.8038

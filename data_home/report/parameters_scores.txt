@@ -1,0 +1,18 @@
+MultinomialNB最佳模型f1 macro(on train): 0.8909886135522541
+(alpha: 0.01; 特征数量(TopNbyFreq): 10000)
+
+GaussianNB最佳模型f1 macro(on train): 0.8426573635826211
+(var_smoothing: 1e-05; 特征数量(TopNbyFreq): 10000)
+
+DecisionTreeClassifier最佳模型f1 macro(on train): 0.6856712891697478
+(criterion: gini; 特征数量(TopNbyFreq): 10000)
+
+KNN最佳模型f1 macro(on train): 0.8569925179508393
+(n_neighbors: 1; metric: cosine; p: None; 特征数量(TopNbyFreq): 10000)
+
+SVC最佳模型f1 macro(on train): 0.9012221299961748
+(kernel: linear; degree: 2; 特征数量(TopNbyFreq): 10000)
+
+LogisticRegression最佳模型f1 macro(on train): 0.9031495758358445
+(tol: 0.0001; C: 2.5; 特征数量(TopNbyFreq): 10000)
+
