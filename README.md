@@ -1,9 +1,3 @@
-这是一个为您生成的 GitHub README.md 文件模板。该文档是根据您上传的实验报告内容整理而成的，包含了项目介绍、数据集、方法流程、实验结果及结论。
-
-您可以直接复制下面的 Markdown 代码保存为 `README.md`。
-
-***
-
 # 文本数据向量化及机器学习算法在文本分类中的应用
 
 [cite_start]本仓库包含了一份关于文本分类的实验报告及相关分析。实验旨在比较不同机器学习算法在 20 Newsgroups 数据集上的分类性能，并探讨了文本预处理、TF-IDF 向量化以及模型调优的过程 [cite: 1, 4]。
@@ -82,8 +76,6 @@
 1.  [cite_start]在本次文本分类任务中，**LogisticRegression**、**SVC** 和 **MultinomialNB** 是效果最好的模型 [cite: 42]。
 2.  [cite_start]**MultinomialNB** 在面对更复杂的分类任务（从粗分类到细分类）时，性能保持得最稳定 [cite: 42]。
 3.  [cite_start]**"Other"** 类别的语义较为模糊，容易与计算机 (`comp`) 和科学 (`sci`) 类文档混淆，是主要的错误来源 [cite: 42]。
-
----
 
 ### 参考文献
 * Pedregosa et al. (2011). [cite_start]Scikit-learn: Machine Learning in Python. [cite: 4]
